@@ -3,7 +3,7 @@ The script will start a quick mock server for REST API testing.
 
 # Usage
 1. Please refer to Examples section.
-2. Change `./dev/mocks.json` according to your needs. Supported placeholders are %VARIABLE%
+2. Change `./dev/mocks.json` according to your needs. Supported placeholders are {{VARIABLE}}
 3. Add an output file to './apis/XXXX' (supports .json and .xml otherwise will output as text/plain). Supported 
    placeholders are put as {{VARIABLE}}
 4. Start a php server
