@@ -1,0 +1,8 @@
+.idea
+mock.iml
+apis/
+!apis/test1.json
+!apis/test2.json
+dev/
+!dev/custom_logic_for_test2.php
+!dev/mocks_test.json

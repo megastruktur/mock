@@ -1,0 +1,18 @@
+[
+  {
+    "api": "/api/v1.0/test1",
+    "method": "GET",
+    "filename": "test1.json",
+    "custom_logic_function": "",
+    "variables": {}
+  },
+  {
+    "api": "/api/v1.0/megatesto2/{{name}}/{{someid}}",
+    "method": "GET",
+    "filename": "test2.json",
+    "custom_logic_function": "custom_logic_for_test2",
+    "variables": {
+      "testavariable": "My Little Test"
+    }
+  }
+]

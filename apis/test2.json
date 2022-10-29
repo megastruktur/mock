@@ -1,0 +1,6 @@
+{
+  "name": "{{name}}",
+  "id": "{{someid}}",
+  "some other variable": "{{testavariable}}",
+  "Test a function var": "{{function_test}}"
+}
